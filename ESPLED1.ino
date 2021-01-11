@@ -106,8 +106,8 @@ byte wifiok = 0;
 
 byte siap = 0;
 
-const char* ssid = "TAMU";
-const char* pwd = "081294340345";
+const char* ssid = "ABCD";
+const char* pwd = "**********";
 const char stBusy[4] = {'-','\\','|','/'};
 byte bloop = 0;
 byte bldelay = 0;
